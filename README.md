@@ -1,3 +1,3 @@
 # Hackerrank-Questions-Python
 
-Challenge Solutions from hackeerrank.
+Challenge Solutions from hackerrank.
